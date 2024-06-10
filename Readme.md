@@ -1,1 +1,2 @@
-Readme
+### Capstone flashcard project 
+
